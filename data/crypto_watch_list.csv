@@ -1,0 +1,31 @@
+Symbol,Name,Date_Added
+bitcoin,Bitcoin,2022-01-01
+ethereum,Ethereum,2022-01-10
+tether,Tether,2022-02-01
+binancecoin,Binance Coin,2022-02-15
+usd-coin,USD Coin,2022-03-01
+ripple,XRP,2022-03-15
+cardano,Cardano,2022-04-01
+dogecoin,Dogecoin,2022-04-10
+solana,Solana,2022-04-20
+tron,TRON,2022-05-01
+polkadot,Polkadot,2022-05-15
+litecoin,Litecoin,2022-06-01
+polygon,Polygon,2022-06-10
+shiba-inu,Shiba Inu,2022-06-20
+avalanche-2,Avalanche,2022-07-01
+chainlink,Chainlink,2022-07-10
+uniswap,Uniswap,2022-07-20
+stellar,Stellar,2022-08-01
+monero,Monero,2022-08-10
+cosmos,Cosmos,2022-08-20
+algorand,Algorand,2022-09-01
+vechain,VeChain,2022-09-10
+filecoin,Filecoin,2022-09-20
+internet-computer,Internet Computer,2022-10-01
+tezos,Tezos,2022-10-10
+near,NEAR Protocol,2022-10-20
+hedera-hashgraph,Hedera,2022-11-01
+theta-token,Theta Network,2022-11-10
+eos,EOS,2022-11-20
+aave,Aave,2022-12-01
